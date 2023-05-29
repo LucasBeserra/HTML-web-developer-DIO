@@ -17,8 +17,3 @@ Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais f�
 - [Wikipedia](https://pt.wikipedia.org/)
 
 
-## Referências: 
-* https://pt.wikipedia.org/wiki/Anime
-* https://pt.wikipedia.org/wiki/Fullmetal_Alchemist
-* https://pt.wikipedia.org/wiki/Bleach_(mang%C3%A1)
-* https://pt.wikipedia.org/wiki/One_Piece
